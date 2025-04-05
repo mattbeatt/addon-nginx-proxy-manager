@@ -14,7 +14,7 @@ arch:
   - armv7
 hassio_api: true
 ports:
-  8124/tcp: 80
+  80/tcp: 8124
   81/tcp: 81
   443/tcp: 443
 map:
